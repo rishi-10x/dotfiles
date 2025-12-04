@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/rishi/Documents/10x_ws/src/10xCode'
+let g:netrw_dirhist_9='/home/rishi/Documents/10x_ws/src/10xCode/manipulation/arm_custom_planner/src'
+let g:netrw_dirhist_8='/home/rishi/Documents/10x_ws/src/10xCode/manipulation/arm_custom_planner'
+let g:netrw_dirhist_7='/home/rishi/Documents/10x_ws/src/10xCode/manipulation'
+let g:netrw_dirhist_6='/home/rishi/Documents/10x_ws/src/10xCode'
+let g:netrw_dirhist_5='/home/rishi/Documents/10x_ws/src/10xCode/manipulation/arm_custom_planner/src'
+let g:netrw_dirhist_4='/home/rishi/Documents/10x_ws/src/10xCode/manipulation/arm_custom_planner'
+let g:netrw_dirhist_3='/home/rishi/Documents/10x_ws/src/10xCode/manipulation'
+let g:netrw_dirhist_2='/home/rishi/Documents/10x_ws/src/10xCode/manipulation/arm_analysis'
+let g:netrw_dirhist_1='/home/rishi/Documents/10x_ws/src/10xCode/manipulation/arm_analysis/src'
