@@ -1,0 +1,3 @@
+return {
+    "kien/ctrlp.vim"
+    }
